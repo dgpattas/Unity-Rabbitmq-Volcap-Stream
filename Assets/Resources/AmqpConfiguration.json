@@ -1,0 +1,15 @@
+{
+    "Connections": [
+        {
+            "Name": "localhost",
+            "Host": "195.251.117.105",
+            "AmqpPort": 5672,
+            "WebPort": 15672,
+            "VirtualHost": "/",
+            "Username": "volumetric",
+            "Password": "capture",
+            "ReconnectInterval": 5,
+            "RequestedHeartBeat": 30
+        }
+    ]
+}
